@@ -32,11 +32,17 @@ body {
 
 .middlePicture{
 	float: right;
-	width: 400px;
-	height: 300px;
+	width: 527px;
+	height: 350px;
 }
 
-@media screen and (max-height: 450px) {
+@media screen and (max-width: 450px)
+  .middlePicture{
+	float: top;
+	width: 212px;
+	height: 125px;
+}
+
+@media screen and (max-height: 450px)
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-}
