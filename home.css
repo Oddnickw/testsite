@@ -53,6 +53,11 @@ body {
   padding-left:30px;
 }
 
+#resume{
+  margin: auto;
+  width: 75%;
+}
+
 .middlePicture{
   float: right;
   padding-top: 15px;
