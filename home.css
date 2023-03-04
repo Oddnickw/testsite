@@ -1,6 +1,6 @@
 body {
   background-color:black;
-  font-family: "Lato", sans-serif;
+  font-family: "Papyrus", sans-serif;
 }
 
 .sidenav {
@@ -40,22 +40,24 @@ body {
 
 .main {
   margin-left: 200px; /* Same as the width of the sidenav */
-  margin-right: 30px;
+  margin-right: 10px;
   margin-top: 3%;
   text-align: left;
   height: 750px;
   width: 75%;
-  background-color:lightgrey;
+  background-color:#f7f3e6;
 }
 
 #body {
-  margin-top: 3px;
+  padding-top: 10px;
+  padding-left:30px;
 }
 
 .middlePicture{
   float: right;
-  padding: 15px;
-  margin-right: 20%;
+  padding-top: 15px;
+  padding-right: 30px;
+  margin-left:70px;
 	width: 527px;
 	height: 350px;
 }
