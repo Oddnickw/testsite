@@ -37,6 +37,7 @@ body {
 .main {
   margin-left: 200px; /* Same as the width of the sidenav */
   margin-right:300px;
+  text-align: left;
 }
 
 .middlePicture{
