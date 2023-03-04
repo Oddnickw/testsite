@@ -41,8 +41,8 @@ body {
 }
 
 .middlePicture{
-  position: fixed;
-	float: left;
+  float: right;
+  margin: 5px;
 	width: 527px;
 	height: 350px;
 }
