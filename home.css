@@ -53,10 +53,18 @@ body {
   padding-left:30px;
 }
 
-#resume{
-  margin: auto;
-  width: 75%;
+.resume{
+  margin: 0 auto;
+  
 }
+.resume iframe{
+  margin: 0 auto;
+  display: block;
+  border-style:none;
+  width: 75%;
+  height: 700px;
+}
+  
 
 .middlePicture{
   float: right;
